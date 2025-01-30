@@ -1,0 +1,5 @@
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\bin\Release\SBOAddonProject.exe
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\bin\Release\SBOAddonProject.pdb
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\obj\Release\SBOAddonProject.csprojResolveAssemblyReference.cache
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\obj\Release\SBOAddonProject.exe
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\obj\Release\SBOAddonProject.pdb

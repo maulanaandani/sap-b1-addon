@@ -1,0 +1,4 @@
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\bin\Debug\SBOAddonProject.exe
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\bin\Debug\SBOAddonProject.pdb
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\obj\Debug\SBOAddonProject.exe
+D:\PROJECTS\ADDON\SBOAddonProject\SBOAddonProject\obj\Debug\SBOAddonProject.pdb
